@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christian-chapman
+- 👋 Hi, I’m @christian-chapman, a Software Engineer at Microsoft.
 - 👀 I’m interested in back-end development, AI and ML, cloud infrastructure, front-end development (in ReactJS), and networking.
 - 🌱 I'm currently learning more about specific subsets in AI. 
 - 💞️ I’m looking for open source projects who want any assistance!
